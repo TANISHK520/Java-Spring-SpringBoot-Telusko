@@ -6,7 +6,7 @@ class type{
         byte b=127;
         int a=340;
 
-       // b=a; //trying to store int in byte lowering the range not possible
+    //    b=a; //trying to store int in byte lowering the range not possible
        a=b; // trying to store byte in int -> posible
 
        System.out.println(a); //127

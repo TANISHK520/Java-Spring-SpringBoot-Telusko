@@ -1,0 +1,12 @@
+camelCasing
+
+class and interface -> Calc,Runable
+variable and method -> marks , show()
+constannts - PIE,BRAND
+constructor - Human()
+
+//combineLetters
+showMyMarks
+showMyMarks();
+
+age,DATA,

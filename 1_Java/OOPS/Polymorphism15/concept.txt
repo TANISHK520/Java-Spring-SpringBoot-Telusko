@@ -1,0 +1,7 @@
+polymorphism - Many behaviors
+two type - compile time (Early Binding) -- if behavior is defined at compile time (Overloading)
+           RunTime (Late Binding) -- if behavior is defined at run time (OverRiding)
+
+
+
+//to implement run time polymorphism implement through Dynamic Method Dispatch.
